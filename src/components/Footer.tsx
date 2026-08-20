@@ -13,7 +13,7 @@ export function Footer() {
         </div>
         <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
           <a
-            href={profile.contact.github}
+            href="https://github.com/BORISOG18"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-1.5 hover:text-foreground"
@@ -21,7 +21,7 @@ export function Footer() {
             <Github className="h-4 w-4" /> GitHub
           </a>
           <a
-            href={profile.contact.linkedin}
+            href="https://www.linkedin.com/in/gaurav-joshi-068782332/"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-1.5 hover:text-foreground"
@@ -29,7 +29,7 @@ export function Footer() {
             <Linkedin className="h-4 w-4" /> LinkedIn
           </a>
           <a
-            href={`mailto:${profile.contact.email}`}
+            href= "mailto:kolhapurnp@gmail.com"
             className="inline-flex items-center gap-1.5 hover:text-foreground"
           >
             <Mail className="h-4 w-4" /> Email

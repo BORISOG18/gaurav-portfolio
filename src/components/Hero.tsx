@@ -84,7 +84,7 @@ export function Hero() {
             className="mt-8 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm text-muted-foreground"
           >
             <a
-              href={profile.contact.github}
+              href= "https://github.com/BORISOG18"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 hover:text-foreground"
@@ -92,7 +92,7 @@ export function Hero() {
               <Github className="h-4 w-4" /> GitHub
             </a>
             <a
-              href={profile.contact.linkedin}
+              href= "https://www.linkedin.com/in/gaurav-joshi-068782332/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 hover:text-foreground"

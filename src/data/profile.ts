@@ -16,9 +16,9 @@ export const profile = {
     "I’m Gaurav Yogesh Joshi, a Data Science Engineering student focused on Data Science, AI/ML and Full-Stack Development. I enjoy turning ideas into practical software projects and continuously developing industry-ready technical skills.",
   // TODO: replace the placeholders below with real contact details.
   contact: {
-    email: "YOUR_EMAIL@example.com",
-    linkedin: "https://linkedin.com/in/YOUR_USERNAME",
-    github: "https://github.com/YOUR_USERNAME",
+    email: "kolhapurnp@gmail.com ",
+    linkedin: "https://www.linkedin.com/in/gaurav-joshi-068782332/",
+    github: "https://github.com/BORISOG18",
   },
   // Upload the real resume to public/resume/ with this exact filename.
   resumeUrl: "/resume/Gaurav_Yogesh_Joshi_Resume.pdf",
