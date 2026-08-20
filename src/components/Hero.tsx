@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Github, Linkedin, Mail, MapPin } from "lucide-react";
-import portrait from "@/assets/gaurav-portrait.jpg.asset.json";
 import { profile } from "@/data/profile";
 
 function scrollTo(id: string) {
@@ -125,7 +124,7 @@ export function Hero() {
           <div className="glass-panel relative rounded-[2rem] p-4">
             <div className="overflow-hidden rounded-[1.4rem] border border-border">
               <img
-                src={portrait.url}
+                src="/gaurav-portrait.jpg"
                 alt="Portrait of Gaurav Yogesh Joshi"
                 className="aspect-[4/5] w-full object-cover object-top"
                 width={740}
