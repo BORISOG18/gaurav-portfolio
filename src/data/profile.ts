@@ -5,7 +5,7 @@ export const profile = {
   secondaryHeadline: "Data Science | AI/ML | Full-Stack Development",
   location: "Kolhapur, Maharashtra, India",
   status: "Open to Internship Opportunities",
-  year: "First Year",
+  year: "Third Year",
   education: "B.Tech – Computer Science & Data Science / Data Science Engineering",
   objective:
     "Motivated B.Tech Computer Science and Data Science student seeking internship opportunities to apply programming, web development, database, data science and AI/ML skills to real-world projects. Eager to learn from industry professionals, contribute to meaningful projects and develop strong practical experience in a professional environment.",
@@ -108,7 +108,7 @@ export const education = [
     school: "D.Y. Patil Education Society / D.Y. Patil Engineering College",
     degree: "B.Tech – Computer Science & Data Science / Data Science Engineering",
     status: "Currently Pursuing",
-    year: "First Year",
+    year: "Third Year",
     subjects: [
       "Data Structures",
       "Programming",
