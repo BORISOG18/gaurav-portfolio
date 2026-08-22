@@ -28,7 +28,7 @@ export const stats = [
   { value: "4+", label: "Industry Certifications" },
   { value: "6", label: "Featured Projects" },
   { value: "8+", label: "Programming & Web Technologies" },
-  { value: "3st", label: "Year B.Tech" },
+  { value: "3rd", label: "Year B.Tech" },
 ];
 
 export const aboutParagraphs = [
